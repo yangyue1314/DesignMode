@@ -1,5 +1,9 @@
 ﻿using System;
 
+
+/// <summary>
+/// 工厂模式通过不同的条件生产不同的class
+/// </summary>
 namespace Factory
 {
     class Program
