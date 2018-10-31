@@ -1,0 +1,11 @@
+D:\vs\DesignMode\Proxy\Proxy\bin\Debug\netcoreapp2.0\Proxy.deps.json
+D:\vs\DesignMode\Proxy\Proxy\bin\Debug\netcoreapp2.0\Proxy.runtimeconfig.json
+D:\vs\DesignMode\Proxy\Proxy\bin\Debug\netcoreapp2.0\Proxy.runtimeconfig.dev.json
+D:\vs\DesignMode\Proxy\Proxy\bin\Debug\netcoreapp2.0\Proxy.dll
+D:\vs\DesignMode\Proxy\Proxy\bin\Debug\netcoreapp2.0\Proxy.pdb
+D:\vs\DesignMode\Proxy\Proxy\obj\Debug\netcoreapp2.0\Proxy.csprojAssemblyReference.cache
+D:\vs\DesignMode\Proxy\Proxy\obj\Debug\netcoreapp2.0\Proxy.csproj.CoreCompileInputs.cache
+D:\vs\DesignMode\Proxy\Proxy\obj\Debug\netcoreapp2.0\Proxy.AssemblyInfoInputs.cache
+D:\vs\DesignMode\Proxy\Proxy\obj\Debug\netcoreapp2.0\Proxy.AssemblyInfo.cs
+D:\vs\DesignMode\Proxy\Proxy\obj\Debug\netcoreapp2.0\Proxy.dll
+D:\vs\DesignMode\Proxy\Proxy\obj\Debug\netcoreapp2.0\Proxy.pdb

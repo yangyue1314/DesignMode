@@ -1,0 +1,11 @@
+C:\Users\yangyue\source\repos\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.deps.json
+C:\Users\yangyue\source\repos\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.json
+C:\Users\yangyue\source\repos\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.dev.json
+C:\Users\yangyue\source\repos\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.dll
+C:\Users\yangyue\source\repos\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.pdb
+C:\Users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.csprojAssemblyReference.cache
+C:\Users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfo.cs
+C:\Users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.dll
+C:\Users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.pdb
