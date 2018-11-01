@@ -1,0 +1,11 @@
+D:\vs\DesignMode\Prototype\Prototype\bin\Debug\netcoreapp2.0\Prototype.deps.json
+D:\vs\DesignMode\Prototype\Prototype\bin\Debug\netcoreapp2.0\Prototype.runtimeconfig.json
+D:\vs\DesignMode\Prototype\Prototype\bin\Debug\netcoreapp2.0\Prototype.runtimeconfig.dev.json
+D:\vs\DesignMode\Prototype\Prototype\bin\Debug\netcoreapp2.0\Prototype.dll
+D:\vs\DesignMode\Prototype\Prototype\bin\Debug\netcoreapp2.0\Prototype.pdb
+D:\vs\DesignMode\Prototype\Prototype\obj\Debug\netcoreapp2.0\Prototype.csprojAssemblyReference.cache
+D:\vs\DesignMode\Prototype\Prototype\obj\Debug\netcoreapp2.0\Prototype.csproj.CoreCompileInputs.cache
+D:\vs\DesignMode\Prototype\Prototype\obj\Debug\netcoreapp2.0\Prototype.AssemblyInfoInputs.cache
+D:\vs\DesignMode\Prototype\Prototype\obj\Debug\netcoreapp2.0\Prototype.AssemblyInfo.cs
+D:\vs\DesignMode\Prototype\Prototype\obj\Debug\netcoreapp2.0\Prototype.dll
+D:\vs\DesignMode\Prototype\Prototype\obj\Debug\netcoreapp2.0\Prototype.pdb
