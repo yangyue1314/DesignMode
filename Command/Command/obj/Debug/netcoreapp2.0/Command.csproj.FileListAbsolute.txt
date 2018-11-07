@@ -1,0 +1,11 @@
+D:\vs\DesignMode\Command\Command\bin\Debug\netcoreapp2.0\Command.deps.json
+D:\vs\DesignMode\Command\Command\bin\Debug\netcoreapp2.0\Command.runtimeconfig.json
+D:\vs\DesignMode\Command\Command\bin\Debug\netcoreapp2.0\Command.runtimeconfig.dev.json
+D:\vs\DesignMode\Command\Command\bin\Debug\netcoreapp2.0\Command.dll
+D:\vs\DesignMode\Command\Command\bin\Debug\netcoreapp2.0\Command.pdb
+D:\vs\DesignMode\Command\Command\obj\Debug\netcoreapp2.0\Command.csprojAssemblyReference.cache
+D:\vs\DesignMode\Command\Command\obj\Debug\netcoreapp2.0\Command.csproj.CoreCompileInputs.cache
+D:\vs\DesignMode\Command\Command\obj\Debug\netcoreapp2.0\Command.AssemblyInfoInputs.cache
+D:\vs\DesignMode\Command\Command\obj\Debug\netcoreapp2.0\Command.AssemblyInfo.cs
+D:\vs\DesignMode\Command\Command\obj\Debug\netcoreapp2.0\Command.dll
+D:\vs\DesignMode\Command\Command\obj\Debug\netcoreapp2.0\Command.pdb
