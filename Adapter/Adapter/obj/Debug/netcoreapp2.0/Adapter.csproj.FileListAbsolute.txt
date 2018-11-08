@@ -1,0 +1,11 @@
+D:\vs\DesignMode\Adapter\Adapter\bin\Debug\netcoreapp2.0\Adapter.deps.json
+D:\vs\DesignMode\Adapter\Adapter\bin\Debug\netcoreapp2.0\Adapter.runtimeconfig.json
+D:\vs\DesignMode\Adapter\Adapter\bin\Debug\netcoreapp2.0\Adapter.runtimeconfig.dev.json
+D:\vs\DesignMode\Adapter\Adapter\bin\Debug\netcoreapp2.0\Adapter.dll
+D:\vs\DesignMode\Adapter\Adapter\bin\Debug\netcoreapp2.0\Adapter.pdb
+D:\vs\DesignMode\Adapter\Adapter\obj\Debug\netcoreapp2.0\Adapter.csprojAssemblyReference.cache
+D:\vs\DesignMode\Adapter\Adapter\obj\Debug\netcoreapp2.0\Adapter.csproj.CoreCompileInputs.cache
+D:\vs\DesignMode\Adapter\Adapter\obj\Debug\netcoreapp2.0\Adapter.AssemblyInfoInputs.cache
+D:\vs\DesignMode\Adapter\Adapter\obj\Debug\netcoreapp2.0\Adapter.AssemblyInfo.cs
+D:\vs\DesignMode\Adapter\Adapter\obj\Debug\netcoreapp2.0\Adapter.dll
+D:\vs\DesignMode\Adapter\Adapter\obj\Debug\netcoreapp2.0\Adapter.pdb
