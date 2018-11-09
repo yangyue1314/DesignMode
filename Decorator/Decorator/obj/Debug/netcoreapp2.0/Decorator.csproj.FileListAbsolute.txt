@@ -9,3 +9,14 @@ c:\users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decora
 c:\users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfo.cs
 c:\users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.dll
 c:\users\yangyue\source\repos\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.pdb
+D:\vs\DesignMode\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.deps.json
+D:\vs\DesignMode\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.json
+D:\vs\DesignMode\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.dev.json
+D:\vs\DesignMode\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.dll
+D:\vs\DesignMode\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.pdb
+D:\vs\DesignMode\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.csprojAssemblyReference.cache
+D:\vs\DesignMode\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.csproj.CoreCompileInputs.cache
+D:\vs\DesignMode\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfoInputs.cache
+D:\vs\DesignMode\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfo.cs
+D:\vs\DesignMode\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.dll
+D:\vs\DesignMode\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.pdb

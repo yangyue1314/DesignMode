@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\yangyue\\source\\repos\\Decorator\\Decorator\\Decorator.csproj",
+      "projectUniqueName": "D:\\vs\\DesignMode\\Decorator\\Decorator\\Decorator.csproj",
       "projectName": "Decorator",
-      "projectPath": "c:\\users\\yangyue\\source\\repos\\Decorator\\Decorator\\Decorator.csproj",
+      "projectPath": "D:\\vs\\DesignMode\\Decorator\\Decorator\\Decorator.csproj",
       "packagesPath": "C:\\Users\\yangyue\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\yangyue\\source\\repos\\Decorator\\Decorator\\obj\\",
+      "outputPath": "D:\\vs\\DesignMode\\Decorator\\Decorator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
