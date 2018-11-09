@@ -1,0 +1,11 @@
+D:\vs\DesignMode\Templet\Templet\bin\Debug\netcoreapp2.0\Templet.deps.json
+D:\vs\DesignMode\Templet\Templet\bin\Debug\netcoreapp2.0\Templet.runtimeconfig.json
+D:\vs\DesignMode\Templet\Templet\bin\Debug\netcoreapp2.0\Templet.runtimeconfig.dev.json
+D:\vs\DesignMode\Templet\Templet\bin\Debug\netcoreapp2.0\Templet.dll
+D:\vs\DesignMode\Templet\Templet\bin\Debug\netcoreapp2.0\Templet.pdb
+D:\vs\DesignMode\Templet\Templet\obj\Debug\netcoreapp2.0\Templet.csprojAssemblyReference.cache
+D:\vs\DesignMode\Templet\Templet\obj\Debug\netcoreapp2.0\Templet.csproj.CoreCompileInputs.cache
+D:\vs\DesignMode\Templet\Templet\obj\Debug\netcoreapp2.0\Templet.AssemblyInfoInputs.cache
+D:\vs\DesignMode\Templet\Templet\obj\Debug\netcoreapp2.0\Templet.AssemblyInfo.cs
+D:\vs\DesignMode\Templet\Templet\obj\Debug\netcoreapp2.0\Templet.dll
+D:\vs\DesignMode\Templet\Templet\obj\Debug\netcoreapp2.0\Templet.pdb
