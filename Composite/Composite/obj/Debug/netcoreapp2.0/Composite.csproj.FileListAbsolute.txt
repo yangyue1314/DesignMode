@@ -1,0 +1,11 @@
+D:\vs\DesignMode\Composite\Composite\bin\Debug\netcoreapp2.0\Composite.deps.json
+D:\vs\DesignMode\Composite\Composite\bin\Debug\netcoreapp2.0\Composite.runtimeconfig.json
+D:\vs\DesignMode\Composite\Composite\bin\Debug\netcoreapp2.0\Composite.runtimeconfig.dev.json
+D:\vs\DesignMode\Composite\Composite\bin\Debug\netcoreapp2.0\Composite.dll
+D:\vs\DesignMode\Composite\Composite\bin\Debug\netcoreapp2.0\Composite.pdb
+D:\vs\DesignMode\Composite\Composite\obj\Debug\netcoreapp2.0\Composite.csprojAssemblyReference.cache
+D:\vs\DesignMode\Composite\Composite\obj\Debug\netcoreapp2.0\Composite.csproj.CoreCompileInputs.cache
+D:\vs\DesignMode\Composite\Composite\obj\Debug\netcoreapp2.0\Composite.AssemblyInfoInputs.cache
+D:\vs\DesignMode\Composite\Composite\obj\Debug\netcoreapp2.0\Composite.AssemblyInfo.cs
+D:\vs\DesignMode\Composite\Composite\obj\Debug\netcoreapp2.0\Composite.dll
+D:\vs\DesignMode\Composite\Composite\obj\Debug\netcoreapp2.0\Composite.pdb
