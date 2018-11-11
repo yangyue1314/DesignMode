@@ -1,0 +1,11 @@
+D:\vs\DesignMode\State\State\bin\Debug\netcoreapp2.0\State.deps.json
+D:\vs\DesignMode\State\State\bin\Debug\netcoreapp2.0\State.runtimeconfig.json
+D:\vs\DesignMode\State\State\bin\Debug\netcoreapp2.0\State.runtimeconfig.dev.json
+D:\vs\DesignMode\State\State\bin\Debug\netcoreapp2.0\State.dll
+D:\vs\DesignMode\State\State\bin\Debug\netcoreapp2.0\State.pdb
+D:\vs\DesignMode\State\State\obj\Debug\netcoreapp2.0\State.csprojAssemblyReference.cache
+D:\vs\DesignMode\State\State\obj\Debug\netcoreapp2.0\State.csproj.CoreCompileInputs.cache
+D:\vs\DesignMode\State\State\obj\Debug\netcoreapp2.0\State.AssemblyInfoInputs.cache
+D:\vs\DesignMode\State\State\obj\Debug\netcoreapp2.0\State.AssemblyInfo.cs
+D:\vs\DesignMode\State\State\obj\Debug\netcoreapp2.0\State.dll
+D:\vs\DesignMode\State\State\obj\Debug\netcoreapp2.0\State.pdb
